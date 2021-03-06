@@ -1,0 +1,80 @@
+baseURL = "https://clecarosc.netlify.app"
+languageCode = "en-us"
+title = "Cristóbal Lecaros C."
+theme = "ezhil"
+#copyright = ""
+
+sectionPagesMenu = "main"
+
+# Enable syntax highlighting.
+#pygmentsstyle = "solarized-dark"
+#pygmentscodefences = true
+#pygmentscodefencesguesssyntax = true
+
+# Your Google analytics code.
+#googleAnalytics = ""
+# Your Disqus sortname.
+#disqusShortname = "localhost"
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 50
+
+# Number of characters to show in summary.
+#summaryLength = 20
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "post"
+    name = "Blog"
+    url = "/post/"
+    weight = 2
+
+[permalinks]
+    post = "/:sections/:year/:title/"
+
+[markup.highlight]
+    style = "monokai"
+
+[params]
+    # Blog subtitle which appears below blog title. Supports markdown.
+    subtitle = "MD"
+    cv_name = "cv20.pdf"
+    #goatcounter = "prouvost"
+
+
+    # Content types which are included in home page recent posts list.
+    #mainSections = ["posts"]
+
+    # Content types which are excludes Disqus comments.
+    #disableDisqusTypes = ["page"]
+
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    #featherIconsCDN = true
+
+    
+    # Switch to dark mode or auto detect mode from OS (Optional).
+    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
+    mode = "light" # "dark" or "auto"
+    
+
+# Social media links which shows up on site header.
+# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/clecarosc"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/clecarosc"
+
+# Enable tags.
+#[taxonomies]
+#   tag = "tags"
