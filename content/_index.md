@@ -28,12 +28,12 @@ Me gustaría participar o colaborar en otras actividades académicas o proyectos
 ### Projects
 #### Ongoing
 - [Comorbidity profile in psoriasis patients in Chile. A multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm). This work, part of the Global Psoriasis Project initiative, is the analysis of a survey done in multiple dermatological care campaigns in Chile during January 2020 to March 2020. We already did the analysis of the data and are writing the results.
-- Segundo
+- [Psoriasis in Latin America: a scoping review and bibliometric analysis](https://doi.org/10.17605/OSF.IO/UMZS8). To understand disparities in psoriasis care associated with ethnicity, we require to identify the types of available evidence and look for critical concepts regarding research of psoriasis in Latin America. This scoping review and bibliometric analysis aim to summarize the extent, range, and nature of the knowledge domain of psoriasis and Latin American ethnicity.  
+[[code](https://github.com/clecarosc/psor-bibliometrics)]Segundo
 - Tercero
-- [Comorbidity profile in psoriasis patients in Chile. A multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm).  
-  This work, part of the Global Psoriasis Project initiative, is the analysis of a survey done in multiple dermatological care campaigns in Chile during January 2020 to March 2020. We already did the analysis of the data and are writing the results.
-- [Psoriasis in Latin America: a scoping review and bibliometric analysis](https://doi.org/10.17605/OSF.IO/UMZS8).  
-To understand disparities in psoriasis care associated with ethnicity, we require to identify the types of available evidence and look for critical concepts regarding research of psoriasis in Latin America. This scoping review and bibliometric analysis aim to summarize the extent, range, and nature of the knowledge domain of psoriasis and Latin American ethnicity.  
+
+  
+- [Psoriasis in Latin America: a scoping review and bibliometric analysis](https://doi.org/10.17605/OSF.IO/UMZS8). To understand disparities in psoriasis care associated with ethnicity, we require to identify the types of available evidence and look for critical concepts regarding research of psoriasis in Latin America. This scoping review and bibliometric analysis aim to summarize the extent, range, and nature of the knowledge domain of psoriasis and Latin American ethnicity.  
 [[code](https://github.com/clecarosc/psor-bibliometrics)]
 
 
