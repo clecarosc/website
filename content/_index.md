@@ -13,7 +13,7 @@ I am keen to collaborate or to participate in any further academic activities or
 **Interests**: Skin diseases, Clinical Trials, Statistical Programming (`R`), Reproducible Research, Clinical Informatics.    
 
 
-
+~
 
 Hola!  
 Mi nombre es Cristóbal Lecaros C.  
@@ -27,9 +27,10 @@ Me gustaría participar o colaborar en otras actividades académicas o proyectos
 
 ### Projects
 #### Ongoing
-- Primero
-- Segundo
-- Tercero
+- Clinical characterization of a cohort of patients with psoriasis in a Specialty Referral Center in Chile. 2011-2017 experience using biologics. This retrospective study will evaluate electronic medical records of psoriasis patients who participated in clinical trials at a national referral center using natural language processing tools.
+- [Comorbidity profile in psoriasis patients in Chile. A multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm). This work, part of the Global Psoriasis Project initiative, is the analysis of a survey done in multiple dermatological care campaigns in Chile during January 2020 to March 2020. We already did the analysis of the data and are writing the results.
+- [Psoriasis in Latin America: a scoping review and bibliometric analysis](https://doi.org/10.17605/OSF.IO/UMZS8). To understand disparities in psoriasis care associated with ethnicity, we require to identify the types of available evidence and look for critical concepts regarding research of psoriasis in Latin America. This scoping review and bibliometric analysis aim to summarize the extent, range, and nature of the knowledge domain of psoriasis and Latin American ethnicity.  
+[[code](https://github.com/clecarosc/psor-bibliometrics)]
 
 
 #### Previous
@@ -37,7 +38,7 @@ Me gustaría participar o colaborar en otras actividades académicas o proyectos
   This project corresponds to my thesis at the MBI, as a collaboration with the Global Psoriasis Atlas. In this study, we examined the referrals made by general practitioners requesting evaluation for new psoriasis cases in Chile during 2016-2017.\
   [[poster](https://github.com/clecarosc/Apuntes_MIM_2018/blob/master/lecaros_poster.pdf)]
   [[code](https://github.com/clecarosc/psoriasis-incidence)]
-  [[thesis]](https://cimt.uchile.cl/wp-content/uploads/2020/09/ClecarosTesis.pdf)
+  [[thesis](https://cimt.uchile.cl/wp-content/uploads/2020/09/ClecarosTesis.pdf)]
 
 
 ### Publications
