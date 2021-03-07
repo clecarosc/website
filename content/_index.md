@@ -27,7 +27,7 @@ Me gustaría participar o colaborar en otras actividades académicas o proyectos
 
 ### Projects
 #### Ongoing
-- Primero
+- [Comorbidity profile in psoriasis patients in Chile. A multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm). This work, part of the Global Psoriasis Project initiative, is the analysis of a survey done in multiple dermatological care campaigns in Chile during January 2020 to March 2020. We already did the analysis of the data and are writing the results.
 - Segundo
 - Tercero
 - [Comorbidity profile in psoriasis patients in Chile. A multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm).  
