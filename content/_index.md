@@ -28,18 +28,18 @@ Me gustaría participar o colaborar en otras actividades académicas o proyectos
 ### Projects
 #### Ongoing
 
-- [Psoriasis in Latin America: a scoping review and bibliometric analysis](https://doi.org/10.17605/OSF.IO/UMZS8).
- To understand disparities in psoriasis care associated with ethnicity, we require to identify the types of available evidence and look for critical concepts regarding research of psoriasis in Latin America. This scoping review and bibliometric analysis aim to summarize the extent, range, and nature of the knowledge domain of psoriasis and Latin American ethnicity.\
+- [Psoriasis in Latin America. a scoping review and bibliometric analysis](https://doi.org/10.17605/OSF.IO/UMZS8).  
+To understand disparities in psoriasis care associated with ethnicity, we require to identify the types of available evidence and look for critical concepts regarding research of psoriasis in Latin America. This scoping review and bibliometric analysis aim to summarize the extent, range, and nature of the knowledge domain of psoriasis and Latin American ethnicity.\
   [[code](https://github.com/clecarosc/psor-bibliometrics)]
 
-- [Clinical characterization of a cohort of patients with psoriasis in a Specialty Referral Center in Chile: 2011-2017 experience using biologics]().
+- [Clinical characterization of a cohort of patients with psoriasis in a Specialty Referral Center in Chile. 2011-2017 experience using biologics]().  
  This retrospective study will evaluate electronic medical records of psoriasis patients who participated in clinical trials at a national referral center using natural language processing tools.\
 
-- [Comorbidity profile in psoriasis patients in Chile. A cross-sectional multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm). 
+- [Comorbidity profile in psoriasis patients in Chile. A multi-centre survey](https://www.psoriasiscouncil.org/blog/2020-Think-Tank.htm).  
 This work, part of the Global Psoriasis Project initiative, is the analysis of a survey done in multiple dermatological care campaigns in Chile during January 2020 to March 2020. We already did the analysis of the data and are writing the results.
 
 #### Previous
-- [The incidence of psoriasis in Chile. An analysis of the national Waiting List Repository](https://globalpsoriasisatlas.org/).
+- [The incidence of psoriasis in Chile. An analysis of the national Waiting List Repository](https://globalpsoriasisatlas.org/).  
   This project corresponds to my thesis at the MBI, as a collaboration with the Global Psoriasis Atlas. In this study, we examined the referrals made by general practitioners requesting evaluation for new psoriasis cases in Chile during 2016-2017.\
   [[poster](https://github.com/clecarosc/Apuntes_MIM_2018/blob/master/lecaros_poster.pdf)]
   [[code](https://github.com/clecarosc/psoriasis-incidence)]
@@ -48,7 +48,8 @@ This work, part of the Global Psoriasis Project initiative, is the analysis of a
 
 ### Publications
 #### 2015
-- [Cutaneous lupus erythematosus in a dog. Reflections on human-animal evolutionary connections](http://dx.doi.org/10.4067/S0034-98872015000300020). Rev Med Chile. Cristóbal Lecaros, Camila Lecaros, Sandra Díaz.
+- [Cutaneous lupus erythematosus in a dog. Reflections on human-animal evolutionary connections](http://dx.doi.org/10.4067/S0034-98872015000300020).  
+Rev Med Chile. Cristóbal Lecaros, Camila Lecaros, Sandra Díaz.
 
 
 
