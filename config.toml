@@ -1,4 +1,4 @@
-baseURL = "https://clecarosc.netlify.app"
+baseURL = "https://clecarosc.netlify.app/"
 languageCode = "en-us"
 title = "Cristóbal Lecaros C."
 theme = "ezhil"
